@@ -1,1 +1,2 @@
-# PROYECTO PYTHON
+# PROYECTO 1 PYTHON
+Me costo un poco configurar git ya que no dice del todo como configurar, ademas investigando me di cuenta de que en en windows (mi caso), es mejor usar la terminal GIT bash y no el CMD, en cuanto al proyecto me costo un poco el tema del punto decimal, al principio quize hacerlo con medida en centimetros pero me gusto mas usar el punto decimal para marcar la estatura, tambien tuve que investigar un poco mas para hacer eso, capturar los demas datos fue muy facil. 
